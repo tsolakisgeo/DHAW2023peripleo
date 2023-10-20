@@ -4,7 +4,7 @@
   "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
   "features": [
     {
-      "@id": "https://w3id.org/new_parthenon_marbles/c43dcdf6-c591-47e0-844a-6a97734f25e2",
+      "@id": "https://w3id.org/new_parthenon_marbles/1cde3277-f5d2-45fe-8e8c-fb9a40c316e3",
       "type": "Feature",
       "properties": {
         "title": "British Museum",
@@ -13,12 +13,13 @@
       "geometry": { "type": "Point", "coordinates": [0.127, 51.5194] },
       "depictions": [
         {
-          "@id": "https://s3.geograph.org.uk/geophotos/06/22/64/6226459_9ac04c4d.jpg"
+          "@id": "https://s3.geograph.org.uk/geophotos/06/22/64/6226459_9ac04c4d.jpg",
+          "thumbnail": "https://s3.geograph.org.uk/geophotos/04/63/93/4639399_bde13bd4_120x120.jpg"
         }
       ]
     },
     {
-      "@id": "https://w3id.org/new_parthenon_marbles/f385b928-5abf-4fc8-b115-fe6f1afc5422",
+      "@id": "https://w3id.org/new_parthenon_marbles/a5975d74-07f4-447c-b3a4-b7fefa7c900c",
       "type": "Feature",
       "properties": {
         "title": "Louvre Museum",
@@ -27,7 +28,7 @@
       "geometry": { "type": "Point", "coordinates": [2.3376, 48.8606] }
     },
     {
-      "@id": "https://w3id.org/new_parthenon_marbles/16c8bf65-2b00-43e4-8b95-2a50e5cadee2",
+      "@id": "https://w3id.org/new_parthenon_marbles/3338b82b-c1fb-4617-a8b0-a3046a6f2dcd",
       "type": "Feature",
       "properties": {
         "title": "Glyptothek",
@@ -36,7 +37,7 @@
       "geometry": { "type": "Point", "coordinates": [11.5659, 48.1465] }
     },
     {
-      "@id": "https://w3id.org/new_parthenon_marbles/419bb9d6-7fe5-4c51-a6bd-6e29fa4f8dae",
+      "@id": "https://w3id.org/new_parthenon_marbles/ebb0d42f-3bcb-43bc-9291-07073e7e8d18",
       "type": "Feature",
       "properties": {
         "title": "Vatican Museums",
@@ -45,7 +46,7 @@
       "geometry": { "type": "Point", "coordinates": [12.4536, 41.9065] }
     },
     {
-      "@id": "https://w3id.org/new_parthenon_marbles/a11bd6c8-8e55-4b4d-a3ee-06f310b988bf",
+      "@id": "https://w3id.org/new_parthenon_marbles/d26b9ddb-f2bf-4032-a46b-0bfb9c5fc754",
       "type": "Feature",
       "properties": {
         "title": "National Museum of Denmark",
@@ -54,7 +55,7 @@
       "geometry": { "type": "Point", "coordinates": [12.5747, 55.6746] }
     },
     {
-      "@id": "https://w3id.org/new_parthenon_marbles/b551b8e9-12dc-436c-8a1d-7b498962fc3b",
+      "@id": "https://w3id.org/new_parthenon_marbles/c8b56d09-74f7-48db-8545-38f724f3d2d1",
       "type": "Feature",
       "properties": {
         "title": "Kunsthistorisches Museum",
@@ -63,7 +64,7 @@
       "geometry": { "type": "Point", "coordinates": [16.3618, 48.2038] }
     },
     {
-      "@id": "https://w3id.org/new_parthenon_marbles/f1cf9fb7-1a21-4da7-a064-ad655a829fa4",
+      "@id": "https://w3id.org/new_parthenon_marbles/60ea6206-4364-4ad7-a8d4-046eadff1cd4",
       "type": "Feature",
       "properties": {
         "title": "Acropolis Museum",
