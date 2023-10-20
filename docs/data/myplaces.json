@@ -1,1 +1,88 @@
-{"@id":"https://w3id.org/new_parthenon_marbles","type":"FeatureCollection","@context":"https://w3id.org/locolligo/contexts/linkedplaces.jsonld","features":[{"@id":"https://w3id.org/new_parthenon_marbles/d379ab7f-d19c-4fad-969c-238e057ba577","type":"Feature","properties":{"title":"British Museum","url":"https://en.wikipedia.org/wiki/British_Museum"},"geometry":{"type":"Point","coordinates":[0.127,51.5194]},"descriptions":[{"value":"https://s3.geograph.org.uk/geophotos/06/22/64/6226459_9ac04c4d.jpg"}]},{"@id":"https://w3id.org/new_parthenon_marbles/2125da21-7666-4228-a418-da8c63508f7d","type":"Feature","properties":{"title":"Louvre Museum","url":"https://en.wikipedia.org/wiki/Louvre"},"geometry":{"type":"Point","coordinates":[2.3376,48.8606]}},{"@id":"https://w3id.org/new_parthenon_marbles/977e9554-97c6-44c2-9269-6525fef4752a","type":"Feature","properties":{"title":"Glyptothek","url":"https://en.wikipedia.org/wiki/Glyptothek"},"geometry":{"type":"Point","coordinates":[11.5659,48.1465]}},{"@id":"https://w3id.org/new_parthenon_marbles/261cb3bb-4fae-4ade-9088-a577a8d3d31c","type":"Feature","properties":{"title":"Vatican Museums","url":"https://en.wikipedia.org/wiki/Vatican_Museums"},"geometry":{"type":"Point","coordinates":[12.4536,41.9065]}},{"@id":"https://w3id.org/new_parthenon_marbles/3101b18a-3a70-4759-9519-7a2b7e4c5561","type":"Feature","properties":{"title":"National Museum of Denmark","url":"https://en.wikipedia.org/wiki/National_Museum_of_Denmark"},"geometry":{"type":"Point","coordinates":[12.5747,55.6746]}},{"@id":"https://w3id.org/new_parthenon_marbles/153c6d53-cd47-434a-844f-b4f0cc9860fd","type":"Feature","properties":{"title":"Kunsthistorisches Museum","url":"https://en.wikipedia.org/wiki/Kunsthistorisches_Museum"},"geometry":{"type":"Point","coordinates":[16.3618,48.2038]}},{"@id":"https://w3id.org/new_parthenon_marbles/5202de98-a37f-4db6-a2d7-3fbd20aab234","type":"Feature","properties":{"title":"Acropolis Museum","url":"https://en.wikipedia.org/wiki/Acropolis_Museum"},"geometry":{"type":"Point","coordinates":[23.7285,37.9684]}}],"indexing":{"@type":"Dataset","name":"new parthenon marbles","description":"","license":"https://creativecommons.org/licenses/by/4.0/","identifier":"https://w3id.org/new_parthenon_marbles","temporalCoverage":"1066/2022","spatialCoverage":{"@type":"GeoShape","box":"0.580101 0.00149 60.355 9.78667","geo":{"@type":"GeoShape","box":"37.9684 0.127 55.6746 23.7285"}}}}
+{
+  "@id": "https://w3id.org/new_parthenon_marbles",
+  "type": "FeatureCollection",
+  "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
+  "features": [
+    {
+      "@id": "https://w3id.org/new_parthenon_marbles/c43dcdf6-c591-47e0-844a-6a97734f25e2",
+      "type": "Feature",
+      "properties": {
+        "title": "British Museum",
+        "url": "https://en.wikipedia.org/wiki/British_Museum"
+      },
+      "geometry": { "type": "Point", "coordinates": [0.127, 51.5194] },
+      "depictions": [
+        {
+          "@id": "https://s3.geograph.org.uk/geophotos/06/22/64/6226459_9ac04c4d.jpg"
+        }
+      ]
+    },
+    {
+      "@id": "https://w3id.org/new_parthenon_marbles/f385b928-5abf-4fc8-b115-fe6f1afc5422",
+      "type": "Feature",
+      "properties": {
+        "title": "Louvre Museum",
+        "url": "https://en.wikipedia.org/wiki/Louvre"
+      },
+      "geometry": { "type": "Point", "coordinates": [2.3376, 48.8606] }
+    },
+    {
+      "@id": "https://w3id.org/new_parthenon_marbles/16c8bf65-2b00-43e4-8b95-2a50e5cadee2",
+      "type": "Feature",
+      "properties": {
+        "title": "Glyptothek",
+        "url": "https://en.wikipedia.org/wiki/Glyptothek"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.5659, 48.1465] }
+    },
+    {
+      "@id": "https://w3id.org/new_parthenon_marbles/419bb9d6-7fe5-4c51-a6bd-6e29fa4f8dae",
+      "type": "Feature",
+      "properties": {
+        "title": "Vatican Museums",
+        "url": "https://en.wikipedia.org/wiki/Vatican_Museums"
+      },
+      "geometry": { "type": "Point", "coordinates": [12.4536, 41.9065] }
+    },
+    {
+      "@id": "https://w3id.org/new_parthenon_marbles/a11bd6c8-8e55-4b4d-a3ee-06f310b988bf",
+      "type": "Feature",
+      "properties": {
+        "title": "National Museum of Denmark",
+        "url": "https://en.wikipedia.org/wiki/National_Museum_of_Denmark"
+      },
+      "geometry": { "type": "Point", "coordinates": [12.5747, 55.6746] }
+    },
+    {
+      "@id": "https://w3id.org/new_parthenon_marbles/b551b8e9-12dc-436c-8a1d-7b498962fc3b",
+      "type": "Feature",
+      "properties": {
+        "title": "Kunsthistorisches Museum",
+        "url": "https://en.wikipedia.org/wiki/Kunsthistorisches_Museum"
+      },
+      "geometry": { "type": "Point", "coordinates": [16.3618, 48.2038] }
+    },
+    {
+      "@id": "https://w3id.org/new_parthenon_marbles/f1cf9fb7-1a21-4da7-a064-ad655a829fa4",
+      "type": "Feature",
+      "properties": {
+        "title": "Acropolis Museum",
+        "url": "https://en.wikipedia.org/wiki/Acropolis_Museum"
+      },
+      "geometry": { "type": "Point", "coordinates": [23.7285, 37.9684] }
+    }
+  ],
+  "indexing": {
+    "@type": "Dataset",
+    "name": "new parthenon marbles",
+    "description": "",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "identifier": "https://w3id.org/new_parthenon_marbles",
+    "temporalCoverage": "1066/2022",
+    "spatialCoverage": {
+      "@type": "GeoShape",
+      "box": "0.580101 0.00149 60.355 9.78667",
+      "geo": { "@type": "GeoShape", "box": "37.9684 0.127 55.6746 23.7285" }
+    }
+  }
+}
