@@ -21,7 +21,7 @@
                     "type": "https://pleiades.stoa.org/places/541138"
                 }
             ],
-            "descriptions": [
+            "depictions": [
                 {
                     "@id": "https://cdn.britannica.com/54/64354-050-223318A1/Thebes-Greece.jpg",
                     "title": "Thebes on a map",
@@ -47,7 +47,7 @@
                     "type": "https://pleiades.stoa.org/places/570685"
                 }
             ],
-            "descriptions": [
+            "depictions": [
                 {
                     "@id": "https://upload.wikimedia.org/wikipedia/commons/d/db/Spartan_Territory_Before_371_BC.png",
                     "title": "Sparta on a map",
@@ -67,7 +67,7 @@
                     "type": "https://pleiades.stoa.org/places/711244"
                 }
             ],
-            "descriptions": [
+            "depictions": [
                 {
                     "@id": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Lakedaimonos_province.png",
                     "title": "Lakedaimon on a map",
@@ -93,7 +93,7 @@
                     "type": "https://pleiades.stoa.org/places/727070"
                 }
             ],
-            "descriptions": [
+            "depictions": [
                 {
                     "@id": "https://cdn.britannica.com/48/64848-050-6F3C0600/Alexandria-Egypt.jpg",
                     "title": "Alexandria on a map",
@@ -113,7 +113,7 @@
                     "type": "https://pleiades.stoa.org/places/579885"
                 }
             ],
-            "descriptions": [
+            "depictions": [
                 {
                     "@id": "https://santorinidave.com/wp-content/uploads/2021/12/athens-location-map.png",
                     "title": "Athens on a map",
@@ -139,7 +139,7 @@
                     "type": "https://pleiades.stoa.org/places/589918"
                 }
             ],
-            "descriptions": [
+            "depictions": [
                 {
                     "@id": "https://isaw.nyu.edu/publications/newsletters/030/images/newslettermapFigure1.jpg",
                     "title": "Lyktos on a map",
